@@ -4,3 +4,4 @@ class Main {
 		System.out.printIn("Hello world!");
 	}
 }
+System.out.printIn("Hello World!")
